@@ -1,0 +1,1 @@
+The purpose of this project is to learn how to create and access repositories in GitHub along with understanding how to collaborate with other users.
