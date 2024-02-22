@@ -20,9 +20,9 @@ def marktask(task):
         return False
 
 #Command to delete tasks
-def deletetasks(task):
+def deletetask(task):
     if task in list:
-        task.pop(task)
+        list.pop(task)
         return list
     else:
         print("Task does not exist!")
