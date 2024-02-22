@@ -18,3 +18,12 @@ def marktask(task):
     else:
         print("Task does not exist!")
         return False
+
+#Command to delete tasks
+def deletetasks(task):
+    if task in list:
+        task.pop(task)
+        return list
+    else:
+        print("Task does not exist!")
+        return False
